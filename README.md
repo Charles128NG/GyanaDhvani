@@ -1,3 +1,3 @@
-GyanaDhvani is a text to speech pdf readeer software developed solely in python 3.
+GyanaDhvani is a text to speech pdf reader software developed solely in python3.
 
 
